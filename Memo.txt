@@ -1,0 +1,6 @@
+mkdir <FOLDERNAME>
+cd <FOLDERNAME>
+List the items in a folder
+ls
+Turn Git on for a folder
+git init
